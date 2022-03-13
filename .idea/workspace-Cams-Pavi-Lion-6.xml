@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46409899-de44-4a86-bc72-e3975c939d8d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23yWohQUgFSAANccONUIw5fqJlz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/C201/src/Projects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15820312" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\camer\OneDrive - Indiana University\Other\Code Database\C201\src\Homework\Homework5" />
+      <recent name="C:\Users\camer\OneDrive - Indiana University\Other\Code Database\C201\src\Labs\Lab8" />
+      <recent name="C:\Users\camer\OneDrive - Indiana University\Other\Code Database\out\production\C201\Projects\Project 2" />
+      <recent name="C:\Users\camer\OneDrive - Indiana University\Other\Code Database\C201\src\Projects\Project 2" />
+      <recent name="C:\Users\camer\OneDrive - Indiana University\Other\Code Database\C201\src\Projects\Project 2\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.myProject (1)">
+    <configuration name="Lab06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab06" />
+      <module name="C2011" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam1.Main" />
+      <module name="C2011" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework5.hw05" />
+      <module name="C2011" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myProject (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myProject" />
+      <module name="C2011" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Project2.jar (1)" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/production/C2011/Project 2/Project2.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.myProject (1)" />
+        <item itemvalue="Application.hw05" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lab06" />
+        <item itemvalue="JAR Application.Project2.jar (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46409899-de44-4a86-bc72-e3975c939d8d" name="Changes" comment="" />
+      <created>1642706987667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642706987667</updated>
+      <workItem from="1642706990409" duration="27000" />
+      <workItem from="1642707037730" duration="3202000" />
+      <workItem from="1642971124177" duration="3793000" />
+      <workItem from="1643121384348" duration="1362000" />
+      <workItem from="1643126745952" duration="1716000" />
+      <workItem from="1643259356120" duration="213000" />
+      <workItem from="1643293869604" duration="1841000" />
+      <workItem from="1643327300317" duration="9728000" />
+      <workItem from="1643376737568" duration="1596000" />
+      <workItem from="1643485434357" duration="1796000" />
+      <workItem from="1643487313796" duration="1692000" />
+      <workItem from="1643725992562" duration="207000" />
+      <workItem from="1643731493213" duration="845000" />
+      <workItem from="1643742002702" duration="9895000" />
+      <workItem from="1643756887425" duration="2119000" />
+      <workItem from="1643911046386" duration="11631000" />
+      <workItem from="1644019941683" duration="25000" />
+      <workItem from="1644111387032" duration="190000" />
+      <workItem from="1644330929850" duration="2355000" />
+      <workItem from="1644379384584" duration="3558000" />
+      <workItem from="1644421335867" duration="2565000" />
+      <workItem from="1644435553904" duration="1238000" />
+      <workItem from="1644465828590" duration="4088000" />
+      <workItem from="1644503688752" duration="638000" />
+      <workItem from="1644697037448" duration="440000" />
+      <workItem from="1645324251452" duration="935000" />
+      <workItem from="1645325464051" duration="189000" />
+      <workItem from="1645563578588" duration="9050000" />
+      <workItem from="1645654636097" duration="3429000" />
+      <workItem from="1645660487587" duration="2020000" />
+      <workItem from="1645740325791" duration="2439000" />
+      <workItem from="1645744679883" duration="16679000" />
+      <workItem from="1645923623275" duration="17503000" />
+      <workItem from="1646019113151" duration="681000" />
+      <workItem from="1646085542950" duration="222000" />
+      <workItem from="1646085956521" duration="6485000" />
+      <workItem from="1646093055386" duration="307000" />
+      <workItem from="1646093541756" duration="3524000" />
+      <workItem from="1646144420224" duration="3419000" />
+      <workItem from="1646160084671" duration="5802000" />
+      <workItem from="1646180561425" duration="2479000" />
+      <workItem from="1646183181290" duration="3149000" />
+      <workItem from="1646245609450" duration="1915000" />
+      <workItem from="1646249557490" duration="5830000" />
+      <workItem from="1646321814731" duration="88000" />
+      <workItem from="1646323801863" duration="57000" />
+      <workItem from="1646324016858" duration="241000" />
+      <workItem from="1646324664432" duration="468000" />
+      <workItem from="1646667098493" duration="324000" />
+      <workItem from="1646697132990" duration="2385000" />
+      <workItem from="1646748501924" duration="1000" />
+      <workItem from="1646749159625" duration="752000" />
+      <workItem from="1646756217336" duration="887000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

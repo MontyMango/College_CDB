@@ -1,0 +1,19 @@
+Write a program (hw2.java) that merges the numbers in two files (input1.txt, input2.txt)
+and writes all the numbers into a third file (output.txt).
+Each input file contains a list of unsorted integer numbers.
+We do not know how many numbers are in these files.
+The output file should contain all numbers in ascending Homework.Lab5.order.
+That means your data should be merged and sorted.
+
+Hints: you should
+(1) count the total numbers in these two files;
+(2) create an array;
+(3) read data from two files into the array;
+(4) sort the array;
+(5) write data in the array to a new file.
+ 
+ 
+The two input files are input1.txt and input2.txt,
+the output file should look similar to output.txt.
+ 
+ 

@@ -1,0 +1,6 @@
+# Project exclude paths
+/C201/src/Projects/
+/C201/src/Projects/Project 1/src/
+/C201/src/Projects/Project 2/
+/C201/src/Projects/Project 2/src/
+/out/
