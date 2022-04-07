@@ -6,11 +6,23 @@
       <sourceFolder url="file://$MODULE_DIR$/Exam/Exam1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Homework" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Labs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Projects" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exam/Exam2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/Project 4/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Projects/Project 2" />
+      <excludeFolder url="file://$MODULE_DIR$/Projects/Project 1" />
+      <excludeFolder url="file://$MODULE_DIR$/Labs/Lab14" />
+      <excludeFolder url="file://$MODULE_DIR$/Labs/Lab13" />
+      <excludeFolder url="file://$MODULE_DIR$/Homework/Homework8" />
+      <excludeFolder url="file://$MODULE_DIR$/Homework/Homework9" />
+      <excludeFolder url="file://$MODULE_DIR$/Labs/ECLab11" />
+      <excludeFolder url="file://$MODULE_DIR$/Labs/Lab12" />
+      <excludeFolder url="file://$MODULE_DIR$/Projects/Project 3" />
+      <excludeFolder url="file://$MODULE_DIR$/Projects/Project 3/src" />
     </content>
     <content url="file://$MODULE_DIR$/Projects" />
     <content url="file://$MODULE_DIR$/Projects/Project 2" />
+    <content url="file://$MODULE_DIR$/Projects/Project 2/src" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
