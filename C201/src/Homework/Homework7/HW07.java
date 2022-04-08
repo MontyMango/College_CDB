@@ -5,13 +5,13 @@ public class HW07
     {
         orderList SL = new orderList();
         	
-	for (int i=1; i<10; i++)
-	{
+	    for (int i=1; i<10; i++)
+	    {
             int rand = (int)(Math.random()*200);
             order s = new order(1001+i, "Product " + i, 500+rand);
             SL.insert_to_head(s);
-	}
-	SL.show_orders(); 
+	    }
+	    SL.show_orders();
         
         SL.search_item(1003);
         SL.show_total_cost();

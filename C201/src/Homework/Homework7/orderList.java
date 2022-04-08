@@ -15,7 +15,7 @@ public class orderList
 
         // insert o to the front of the list
         if (current != null) {
-            current.next = current;
+            o.next = head;
         }
         head = o;
     }
@@ -40,7 +40,8 @@ public class orderList
         {
             // show cost of Item==ItemI
             if(current.ItemID == ItemID)    {
-                System.out.println(current.cost);
+                System.out.println(ItemID + ":\t" + current.cost);
+                return;
             }
             current = current.next;
         }
@@ -61,7 +62,7 @@ public class orderList
         }
 
         // show the total cost of all orders      
-        System.out.println("Total cost:\t" + total);
+        System.out.println("Total cost:\t\t" + total);
     }
     
     public void most_expensive_item()
@@ -79,10 +80,7 @@ public class orderList
         }
 
         // if list is empty, show nothing
-        if (Largest == 0)   {
-            System.out.println(" nothing ");
-        }
-        else    {
+        if (Largest != 0)   {
             System.out.println("Most expensive item cost:\t" + Largest);
         }
     }

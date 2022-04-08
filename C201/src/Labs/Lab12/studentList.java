@@ -14,10 +14,10 @@ public class studentList
         student current = head;
 
         if (current != null) {
-            current.next = current;
+            s.next = current;
         }
         // insert s to the front of the list
-        current = s;
+        head = s;
     }
     
     public void show_records()
@@ -45,13 +45,11 @@ public class studentList
             current = current.next;
         }
         // if no such student ID, display a message "Not Found"
-        System.out.println("Not Found");
+        System.out.println(student_ID + ": not found.");
     }
     
     public void update_GPA(int student_ID, double newGPA)
     {
-        // Same code as show_GPA, but instead of showing it updates, use show_records()
-
         // your code goes here
         student current = head;
 
@@ -60,7 +58,7 @@ public class studentList
         {
             if(current.ID == student_ID)    {
                 current.GPA = newGPA;
-                System.out.println(student_ID + ":\tGPA updated");
+                System.out.println(student_ID + ": GPA updated");
                 return;
         }
             current = current.next;
