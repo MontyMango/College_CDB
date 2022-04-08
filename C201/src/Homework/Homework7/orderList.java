@@ -71,16 +71,20 @@ public class orderList
         double Largest = 0;
         order current = head;
 
-        // show cost of the most expensive item
-        while(current != null)  {
+
+        // if list is empty, show nothing
+        if(current == null) {
+            System.out.println();
+        }
+
+        else    {
+            while(current != null)  {
             if (current.cost > Largest)  {
                 Largest = current.cost;
             }
             current = current.next;
         }
-
-        // if list is empty, show nothing
-        if (Largest != 0)   {
+            // show cost of the most expensive item
             System.out.println("Most expensive item cost:\t" + Largest);
         }
     }
