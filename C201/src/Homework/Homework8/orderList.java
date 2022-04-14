@@ -19,9 +19,29 @@ public class orderList
     public void insert_in_order(order n)
     {
         // your code goes here
+        if (this.head == null)    {
+            this.head = n;
+            return;
+        }
+
+        else if (this.head.cost > n.cost) {
+            n.next = this.head;
+            this.head = n;
+            return;
+        }
+
         // insert o into list so that the cost of orders are
         // in increasing order.
-        
+        order current = this.head;
+        while (current.next != null)    {
+            if (n.cost < current.next.cost)  {
+                n.next = current.next;
+                current.next = n;
+                return;
+            }
+            current = current.next;
+        }
+        current.next = n;
     }
     
     public void show_orders()
@@ -67,8 +87,23 @@ public class orderList
     public void show_average_cost()
     {
         // your code goes here
-        // display the average cost of all orders
+        order current = this.head;
+        int length = 0;
+        double avg = 0, total = 0;
+
         // if no orders in list, show message "Empty List"
+        if (current == null) System.out.println("Empty List");
+
+        else {
+            while (current != null) {
+                total += current.cost;
+                length++;
+                current = current.next;
+            }
+            // display the average cost of all orders
+            avg = total / length;
+            System.out.println("Average cost:\t" + avg);
+        }
     }
     
     public void most_expensive_item()
