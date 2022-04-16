@@ -1,2 +1,0 @@
-12	cam	eron	299.0
-15	this	charlie	6.0

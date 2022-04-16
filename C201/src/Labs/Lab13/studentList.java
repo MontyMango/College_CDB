@@ -67,20 +67,31 @@ public class studentList
     void remove_node(double gpa)
     {
 	// Your code goes here
-        student current = this.head;
-
-        if (current == null) return;
-
-        if (this.head.GPA > gpa)    {
-            this.head = current.next;
+        while (this.head != null && this.head.GPA > gpa)    {
+            this.head = this.head.next;
         }
-        while (current != null) {
+
+        if (this.head == null) return;
+
+        student current = this.head;
+        
+        while (current != null && current.next != null) {
             // remove records that have GPA greater than
             // parameter gpa
             if (current.next.GPA > gpa) {
                 current.next = current.next.next;
             }
+
+            // Checks the final student on the list
+            if (current.next.next == null)  {
+                if (current.next.GPA > gpa) {
+                    current.next = null;
+                }
+            }
+   
             current = current.next;
         }
+       
+        
     }
 }

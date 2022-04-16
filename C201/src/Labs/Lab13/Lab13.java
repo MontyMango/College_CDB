@@ -20,12 +20,15 @@ public class Lab13
             // your code goes here
             // ask user to enter first name, last name and GPA
             System.out.print("Enter your first name\nFirst name: ");
+            // Testing Purposes |first_name = "Fname";
             first_name = input.next();
 
             System.out.print("Enter your last name\nLast name: ");
+            // Testing Purposes |last_name = "Lname";
             last_name = input.next();
 
             System.out.print("Enter your GPA\nGPA: ");
+            // Testing Purposes | GPA = 5-i;
             GPA = input.nextDouble();
 
             // for each student and assign user inputs to first_name,
