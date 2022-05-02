@@ -1,4 +1,6 @@
 # IUSB_Code_Database
-A Codebase for IUSB or for the classes that I am taking.
+A codebase for my college classes, or for the classes that I am taking.
 
-> what did u expect? something magical? It's nothing magical. >:( Now i am v mad.
+So, nothing special...
+
+> what did u expect? something magical? It's nothing magical. >:(
